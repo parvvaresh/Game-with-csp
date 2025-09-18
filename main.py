@@ -46,7 +46,7 @@ cells.append(
 cells.append(black_cell((4, 4)))
 
 
-puzzle = game(5, 5, cells)
+puzzle = game(5, cells)
 
 ag = agent(puzzle)
 
