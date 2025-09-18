@@ -2,7 +2,7 @@ from cell_set.white_black_cell import white_cell
 
 
 class game:
-    def __init__(self, size_x: int, size_y: int, list_of_cells: int) -> None:
+    def __init__(self, size_x: int, list_of_cells: int) -> None:
         # initialize  a detail of puzzel
         self.size_x = size_x
         self.size_y = size_x

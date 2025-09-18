@@ -1,6 +1,5 @@
-from cell_set.white_black_cell import white_cell, black_cell
+from cell_set.white_black_cell import black_cell
 from cell_set.limited_cells import limitation_target, limitation_target_cell
-from cell_set.white_black_cell import white_cell, black_cell
 
 from agent import agent
 from game import game
