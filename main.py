@@ -59,7 +59,7 @@ print(f"Execution Time: {round(execution_time, 2)} seconds")
 
 
 ai_ag = ai_agent(puzzle)
-puzzle = game(5, 5, cells)
+puzzle = game(5, cells)
 
 start_time = time.time()
 ai_ag.solve_game()
