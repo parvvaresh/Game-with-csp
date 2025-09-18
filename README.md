@@ -1,8 +1,9 @@
 # Kakuro Game with CSP
 
-[![Lint](https://github.com/OWNER/REPO/actions/workflows/lint.yml/badge.svg)](https://github.com/parvvaresh/Kakuro/actions/workflows/lint.yml)
+[![Lint](https://github.com/parvvaresh/Kakuro/actions/workflows/lint.yml/badge.svg?branch=main)](https://github.com/parvvaresh/Kakuro/actions/workflows/lint.yml)
 
-[![Docker Test](https://github.com/OWNER/REPO/actions/workflows/docker-test.yml/badge.svg)](https://github.com/parvvaresh/Kakuro/actions/workflows/docker-test.yml)
+[![Docker Test](https://github.com/parvvaresh/Kakuro/actions/workflows/docker-test.yml/badge.svg?branch=main)](https://github.com/parvvaresh/Kakuro/actions/workflows/docker-test.yml)
+
 
 This project is an implementation of the **Kakuro puzzle game** using **Constraint Satisfaction Problem (CSP)** techniques in Python.
 
